@@ -1,6 +1,6 @@
 # covid19_flutter_app
 
-COVID-19 Flutter App
+Kullanilan API: https://github.com/ozanerturk/covid19-turkey-api
 
 ## Getting Started
 
